@@ -1,3 +1,6 @@
+<a name="top"></a>
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENCE)
+
 # Consolidating Generative AI Protocols: A Single Server Solution for MCP and A2A
 
 ![](images/fig1.jpg)
@@ -262,3 +265,29 @@ You can see that the A2A client created by `@a2a-js/sdk` can use the server that
 - The unified server allowed both MCP and A2A clients to access a common server, which streamlined operations and facilitated the sharing of common functions, thereby reducing development costs.
 - The server utilized Web Apps built with Google Apps Script to handle HTTP GET and HTTP POST requests from both MCP and A2A clients.
 - Demonstrations using Claude Desktop as an MCP client and `@a2a-js/sdk` as an A2A client successfully showed that the integrated Google Apps Script server functioned correctly for both protocols.
+
+---
+
+<a name="licence"></a>
+
+# Licence
+
+[MIT](LICENCE)
+
+<a name="author"></a>
+
+# Author
+
+[Tanaike](https://tanaikech.github.io/about/)
+
+[Donate](https://tanaikech.github.io/donate/)
+
+<a name="updatehistory"></a>
+
+# Update History
+
+- v1.0.0 (June 19, 2025)
+
+  1. Initial release.
+
+[TOP](#top)
