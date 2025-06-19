@@ -258,6 +258,10 @@ When this script is run, the following result can be obtained.
 
 You can see that the A2A client created by `@a2a-js/sdk` can use the server that integrates the MCP server and the A2A server built by Google Apps Script.
 
+# IMPORTANT
+
+- If an error occurs, please redeploy the Web Apps to reflect the latest script. **It is important to note that when you modify the Google Apps Script for the Web App, you must modify the deployment as a new version.** This ensures the modified script is reflected in the Web App. Please be careful about this. Also, you can find more details on this in my report "[Redeploying Web Apps without Changing URL of Web Apps for new IDE](https://gist.github.com/tanaikech/ebf92d8f427d02d53989d6c3464a9c43)".
+
 # Summary
 
 - A new unified Google Apps Script was developed to deploy both Model Context Protocol (MCP) and Agent2Agent (A2A) networks as a single server.
