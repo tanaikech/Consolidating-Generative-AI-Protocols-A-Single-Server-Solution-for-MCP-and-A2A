@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tanaikech-consolidating-generative-ai-protocols-a-single-server-solution-for-mcp-and-a2a-badge.png)](https://mseep.ai/app/tanaikech-consolidating-generative-ai-protocols-a-single-server-solution-for-mcp-and-a2a)
+
 <a name="top"></a>
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENCE)
 
